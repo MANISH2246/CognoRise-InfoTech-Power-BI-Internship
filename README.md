@@ -45,13 +45,6 @@
             <li><a href="https://aii01-my.sharepoint.com/:f:/g/personal/manishdixit_bda23_aidtm_ac_in/EoA7P2yJLrxKu8N2XlzjRrABopz10PZHjPi1peDI0Q7-oA?e=EHuxui" target="_blank">Superstore Sale</a></li>
             <li><a href="https://aii01-my.sharepoint.com/:f:/g/personal/manishdixit_bda23_aidtm_ac_in/EvY7WukCbI9Bl07M9H5xYoUBasqD_rhnYemaN16HMMw3zQ?e=qyfg3v" target="_blank">Covid-19</a></li>
         </ul>
-
-        <h2>Data Analytics Internship Tasks</h2>
-        <ul>
-            <li><a href="https://aii01-my.sharepoint.com/:f:/g/personal/manishdixit_bda23_aidtm_ac_in/EneReWzXgQ1PlMz04GUsNN0ByGEEFk3JyXIi_4F7DXnH_A?e=ImDKH8" target="_blank">Unemployment</a></li>
-            <li><a href="https://aii01-my.sharepoint.com/:f:/g/personal/manishdixit_bda23_aidtm_ac_in/Ehc-xk1q0PdOi4_QfWxukVgBSpKQGe9zqdPPO6hHBmr5uQ?e=9HrjcU" target="_blank">Big Mart Sales</a></li>
-            <li><a href="https://aii01-my.sharepoint.com/:f:/g/personal/manishdixit_bda23_aidtm_ac_in/EjA_-wXMh6lCjoT6woYa14MBj0eYUnT8bgVLiNPfbwdj1w?e=de0n40" target="_blank">Employee Salary for Different Jobs</a></li>
-        </ul>
     </div>
 </body>
 </html>
